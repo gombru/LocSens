@@ -3,8 +3,8 @@
 **ECCV 2020**  
 **Raul Gomez, Jaume Gibert, Lluis Gomez and Dimosthenis Karatzas**    
 
-[Paper]()  
-[Blog Post]()
+[Paper](https://arxiv.org/abs/2007.03375)  
+[Blog Post](https://gombru.github.io/2020/06/03/LocSens/)
 
 **This code needs intense cleaning and simplification that will be done as soon as possible**
 
